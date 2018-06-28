@@ -1,0 +1,6 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+	<TextView android:text="Press OK to send the picture back to Medic Mobile"
+			android:textSize="24sp"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"/>
+</merge>
